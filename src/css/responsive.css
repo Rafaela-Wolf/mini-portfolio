@@ -1,0 +1,49 @@
+@media (max-width: 425px) {
+    .cartão {
+        width: 270px;
+    }
+}
+
+@media (max-width: 393px) {
+    .cartao .minhas-informacoes h1 {
+        font-size: 20px;
+    }
+
+    .cartao .minhas-informacoes h2 {
+        font-size: 16px;
+    }
+
+    .informacoes-abas .sub-titulo {
+        font-size: 18px;
+    }
+
+    .informacoes-abas .descricao {
+        font-size: 16px;
+    }
+
+    .redes-sociais li a {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 293px) {
+    .cartao .minhas-informacoes h1 {
+        font-size: 18px;
+    }
+
+    .cartao .minhas-informacoes h2 {
+        font-size: 14px;
+    }
+
+    .informacoes-abas .sub-titulo {
+        font-size: 16px;
+    }
+
+    .informacoes-abas .descricao {
+        font-size: 14px;
+    }
+
+    .redes-sociais li a {
+        font-size: 14px;
+    }
+}
